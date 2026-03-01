@@ -727,7 +727,7 @@ Head to [claude.ai/settings/plugins/submit](https://claude.ai/settings/plugins/s
 
 ### Page 1: Introduction
 
-![Plugin submission introduction page — agree to terms and review directory policies](screenshots/Screenshot%202026-03-01%20at%209.18.25%20AM.png)
+![Plugin submission introduction page — agree to terms and review directory policies](screenshots/plugin-submission-intro.png)
 
 The introduction page explains what the Plugin Directory is: a community-driven directory where developers can submit plugins for use in Claude Code and Cowork. Key notes:
 
@@ -739,7 +739,7 @@ Check the authorization checkbox and click **Next**.
 
 ### Page 2: Plugin Information
 
-![Plugin information form — repo link, name, description, and use cases](screenshots/Screenshot%202026-03-01%20at%209.18.41%20AM.png)
+![Plugin information form — repo link, name, description, and use cases](screenshots/plugin-submission-info.png)
 
 This is where you provide the details about your plugin:
 
@@ -758,7 +758,7 @@ Tips for this page:
 
 ### Page 3: Submission Details
 
-![Submission details form — platforms, license, and contact information](screenshots/Screenshot%202026-03-01%20at%209.20.06%20AM.png)
+![Submission details form — platforms, license, and contact information](screenshots/plugin-submission-details.png)
 
 Final details before submission:
 
@@ -773,7 +773,7 @@ Click **Submit for review**.
 
 ### Success!
 
-![Plugin submitted successfully — confirmation page](screenshots/Screenshot%202026-03-01%20at%2011.27.20%20AM.png)
+![Plugin submitted successfully — confirmation page](screenshots/plugin-submission-success.png)
 
 You'll see a confirmation: "Plugin submitted for review." The review team will evaluate your plugin and may reach out for additional information. You can view your submissions from this page or submit another plugin.
 
